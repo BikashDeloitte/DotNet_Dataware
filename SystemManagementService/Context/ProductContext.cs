@@ -9,7 +9,7 @@ namespace SystemManagementService.Context
 {
     public class ProductContext : DbContext
     {
-        public ProductContext(DbContextOptions options) : base(options)
+        public ProductContext(DbContextOptions<ProductContext> options) : base(options)
         { }
 
         public DbSet<Product> products { get; set; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj": {}
+    "C:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj": {
+    "C:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj",
+        "projectUniqueName": "C:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj",
         "projectName": "SystemManagementService",
-        "projectPath": "c:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj",
+        "projectPath": "C:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj",
         "packagesPath": "C:\\Users\\bkushwaha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\obj\\",
+        "outputPath": "C:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bkushwaha\\AppData\\Roaming\\NuGet\\NuGet.Config"

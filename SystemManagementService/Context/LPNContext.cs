@@ -9,7 +9,7 @@ namespace SystemManagementService.Context
 {
     public class LPNContext : DbContext
     {
-        public LPNContext(DbContextOptions options) : base(options)
+        public LPNContext(DbContextOptions<LPNContext> options) : base(options)
         { }
 
         public DbSet<LPN> LPNs { get; set; }

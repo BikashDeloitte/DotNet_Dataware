@@ -9,7 +9,7 @@ namespace SystemManagementService.Context
 {
     public class NodesContext : DbContext
     {
-        public NodesContext(DbContextOptions options) : base(options)
+        public NodesContext(DbContextOptions<NodesContext> options) : base(options)
         { }
 
         public DbSet<Nodes> nodes { get; set; }

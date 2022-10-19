@@ -9,7 +9,7 @@ namespace SystemManagementService.Context
 {
     public class PalletsContext : DbContext
     {
-        public PalletsContext(DbContextOptions options) : base(options)
+        public PalletsContext(DbContextOptions<PalletsContext> options) : base(options)
         { }
 
         public DbSet<Pallets> pallets { get; set; }
