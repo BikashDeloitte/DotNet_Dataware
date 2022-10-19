@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj": {}
+    "c:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj": {
+    "c:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj",
+        "projectUniqueName": "c:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj",
         "projectName": "SystemManagementService",
-        "projectPath": "C:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj",
+        "projectPath": "c:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\SystemManagementService.csproj",
         "packagesPath": "C:\\Users\\bkushwaha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\obj\\",
+        "outputPath": "c:\\Users\\bkushwaha\\Desktop\\dot Net\\Assignment\\SystemManagementService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bkushwaha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,22 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
